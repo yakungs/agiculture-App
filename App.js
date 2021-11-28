@@ -13,13 +13,13 @@ import AppLoading from "expo-app-loading";
 import * as firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyB_ppODCcfRZpMVS4KuHjfv-boAHJl-oJM",
-  authDomain: "finalproject-f2df9.firebaseapp.com",
-  projectId: "finalproject-f2df9",
-  storageBucket: "finalproject-f2df9.appspot.com",
-  messagingSenderId: "588825767374",
-  appId: "1:588825767374:web:978c5261959c7fb6518f9f",
-  measurementId: "G-PD2HVH2B7T",
+  apiKey: "<<API key>>",
+  authDomain: "<<API key>>",
+  projectId: "<<API key>>",
+  storageBucket: "<<API key>>",
+  messagingSenderId: "<<API key>>",
+  appId: "<<API key>>",
+  measurementId: "<<API key>>",
 };
 
 //menu popup

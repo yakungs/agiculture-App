@@ -20,22 +20,22 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.webiosandroid.all",
+      "bundleIdentifier": "<<API key>>",
       "config": {
         "googleSignIn": {
-          "reservedClientId": "com.googleusercontent.apps.350582680044-4h1p73rlrfqeirnvbdqk8iikcillvgs1"
+          "reservedClientId": "<<API key>>"
         }
       }
     },
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAb_s4k-K8oXKxVeO2TEq138sFo4ubh7i4"
+          "apiKey": "<<API key>>"
         }
       },
       "useNextNotificationsApi": true,
-      "package": "com.webiosandroid.all",
-      "googleServicesFile": "./google-services.json"
+      "package": "<<API key>>",
+      "googleServicesFile": "<<API key>>"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"

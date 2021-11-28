@@ -1,40 +1,40 @@
 {
   "project_info": {
-    "project_number": "350582680044",
-    "project_id": "finalproject-b7bba",
-    "storage_bucket": "finalproject-b7bba.appspot.com"
+    "project_number": "<<API key>>",
+    "project_id": "<<API key>>",
+    "storage_bucket": "<<API key>>"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:350582680044:android:2a9f1d9a59f348ca69b8c9",
+        "mobilesdk_app_id": "<<API key>>",
         "android_client_info": {
-          "package_name": "com.webiosandroid.all"
+          "package_name": "<<API key>>"
         }
       },
       "oauth_client": [
         {
-          "client_id": "350582680044-6k99j496l956uuaquvolcgf333pv94g6.apps.googleusercontent.com",
+          "client_id": "<<API key>>",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBemfJYOjFa5mUy9RuAvDA7OZfkfY3mbvI"
+          "current_key": "<<API key>>"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "350582680044-6k99j496l956uuaquvolcgf333pv94g6.apps.googleusercontent.com",
+              "client_id": "<<API key>>",
               "client_type": 3
             },
             {
-              "client_id": "350582680044-4h1p73rlrfqeirnvbdqk8iikcillvgs1.apps.googleusercontent.com",
+              "client_id": "<<API key>>",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "host.exp.exponent"
+                "bundle_id": "<<API key>>"
               }
             }
           ]
