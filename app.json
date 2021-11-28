@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "mixerApp",
+    "slug": "mixerApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.webiosandroid.all",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.350582680044-4h1p73rlrfqeirnvbdqk8iikcillvgs1"
+        }
+      }
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAb_s4k-K8oXKxVeO2TEq138sFo4ubh7i4"
+        }
+      },
+      "useNextNotificationsApi": true,
+      "package": "com.webiosandroid.all",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "description": ""
+  }
+}
